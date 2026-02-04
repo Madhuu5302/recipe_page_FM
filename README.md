@@ -36,8 +36,8 @@ Ensure the layout remains clean and readable on all screen sizes
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-html-and-css-jJerUoRiNE)
-- Live Site URL: [Add live site URL here](https://recipe-page-fm-iota.vercel.app/)
+- Solution URL: [FrontendMentor Solution URL](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-html-and-css-jJerUoRiNE)
+- Live Site URL: [Live Site URL](https://recipe-page-fm-iota.vercel.app/)
 
 ### Built with
 
